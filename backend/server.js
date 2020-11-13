@@ -7,6 +7,7 @@ import userRoutes from './routes/userRoutes.js';
 import orderRoutes from './routes/orderRoutes.js';
 import uploadRoutes from './routes/uploadRoutes.js';
 import path from 'path';
+import morgan from 'morgan';
 config();
 connectDB();
 const app = express();
