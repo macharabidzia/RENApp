@@ -1,7 +1,7 @@
 {
-  "name": "lawyersapp",
+  "name": "EcoApp",
   "version": "1.0.0",
-  "description": "Lawyers App",
+  "description": "Eco App",
   "main": "server.js",
   "type": "module",
   "scripts": {
