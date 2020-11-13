@@ -1,7 +1,7 @@
 {
-  "name": "EcoApp",
+  "name": "EcoShop",
   "version": "1.0.0",
-  "description": "Eco App",
+  "description": "Eco Shop",
   "main": "server.js",
   "type": "module",
   "scripts": {
